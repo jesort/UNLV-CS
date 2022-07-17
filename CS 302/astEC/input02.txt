@@ -1,0 +1,7 @@
+TrainA TrainE
+
+TrainA TrainB 60
+TrainA TrainD 120
+TrainB TrainC 80
+TrainC TrainE 70
+TrainD TrainE 150

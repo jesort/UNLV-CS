@@ -1,0 +1,14 @@
+TrainA TrainH
+
+TrainA TrainB 60
+TrainA TrainE 20
+TrainA TrainD 10
+TrainB TrainC 15
+TrainB TrainF 10
+TrainC TrainH 10
+TrainC TrainG 5
+TrainD TrainE 10
+TrainE TrainF 5
+TrainG TrainH 7
+TrainF TrainC 35
+TrainE TrainB 20
